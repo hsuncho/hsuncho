@@ -17,8 +17,8 @@
 
 #### 🧩 Frameworks & Runtime
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 </p>
@@ -40,14 +40,14 @@
 
 ### 🎓 Education
 
- 한국외국어대학교 — 영미문학문화학과, AI융합대학 Software&AI
+- 한국외국어대학교  영미문학문화학과 / AI융합대학 Software&AI
 
 ---
 
 ### 🌟 Activities
 
-- (디지털컨버전스) 데이터융합을 활용한 자바개발자 양성과정(23.07.24-24.01.05)
-- LG CNS AM Inspire Camp(25.07.22~)
+- (디지털컨버전스) 데이터융합을 활용한 자바개발자 양성과정 (2023.07.24 ~ 2024.01.05)  
+- LG CNS AM Inspire Camp (2025.07.22 ~ )
 
 ---
 
@@ -58,7 +58,8 @@
 
 ### 📊 GitHub Status
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hsuncho&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsuncho&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsuncho&layout=compact&theme=default" height="150"/>
+</p>
 </p>
