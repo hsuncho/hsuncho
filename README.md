@@ -46,14 +46,14 @@
 
 ### 🌟 Activities
 
-- 💻 (디지털컨버전스) 데이터융합을 활용한 자바개발자 양성과정(23.07.24-24.01.05)
-- 💻 LG CNS AM Inspire Camp(25.07.22~)
+- (디지털컨버전스) 데이터융합을 활용한 자바개발자 양성과정(23.07.24-24.01.05)
+- LG CNS AM Inspire Camp(25.07.22~)
 
 ---
 
 ### 📄 Certificate
 
-- 📜 SQL 개발자(SQLD)
+- SQL 개발자(SQLD)
 
 
 ### 📊 GitHub Status
