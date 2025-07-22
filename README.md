@@ -59,6 +59,6 @@
 ### 📊 GitHub Status
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=사용자명&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hsuncho&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsuncho&layout=compact" height="150"/>
 </p>
